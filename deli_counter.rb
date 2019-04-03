@@ -13,5 +13,7 @@ def line(katz_deli)
   end
 end
 
+def take_a_number(katz_deli, name)
+  puts "Welcome, #{name}. You are number #{"
     
       
